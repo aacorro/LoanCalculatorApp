@@ -1,0 +1,11 @@
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\bin\Debug\LoanCalculatorApp.exe.config
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\bin\Debug\LoanCalculatorApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\bin\Debug\LoanCalculatorApp.pdb
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.Form1.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.Properties.Resources.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.csproj.GenerateResource.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.pdb
